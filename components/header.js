@@ -14,7 +14,7 @@ const Header = () => {
   }, []);
 
   const onDeveloperClick = useCallback(() => {
-    window.open("https://blockfrontech.vercel.app");
+    window.open("https://jeffspace.vercel.app");
   }, []);
 
   return (
